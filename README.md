@@ -17,3 +17,10 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
+
+
+# Выполнение проекта
+1. *Создан реппозиторий на GitHub:*
+https://github.com/JuliaSh13/FirstFinishProject
+
+2. *
