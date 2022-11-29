@@ -24,7 +24,8 @@
 https://github.com/JuliaSh13/FirstFinishProject
 
 2. *Нарисована блок-схема алгоритма с использованием сервиса **diagrams.net***
-*  *добавлена ссылка на блок-схему в diagrams*
+*  *добавлена ссылка на блок-схему в diagrams*: 
+https://drive.google.com/file/d/19XxoZUVTze7ZY8XTdTn8pZam_AlN-3T1/view?usp=sharing
 
 3. *Добавлен и оформлен файл README.md с текстовым описанием выполнения проекта*
 
