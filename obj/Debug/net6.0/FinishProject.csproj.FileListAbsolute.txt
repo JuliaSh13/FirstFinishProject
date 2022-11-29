@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\FinishProject\bin\Debug\net6.0\FinishProject.exe
+C:\Users\user\Desktop\FinishProject\bin\Debug\net6.0\FinishProject.deps.json
+C:\Users\user\Desktop\FinishProject\bin\Debug\net6.0\FinishProject.runtimeconfig.json
+C:\Users\user\Desktop\FinishProject\bin\Debug\net6.0\FinishProject.dll
+C:\Users\user\Desktop\FinishProject\bin\Debug\net6.0\FinishProject.pdb
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.AssemblyInfo.cs
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.dll
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\refint\FinishProject.dll
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.pdb
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\FinishProject.genruntimeconfig.cache
+C:\Users\user\Desktop\FinishProject\obj\Debug\net6.0\ref\FinishProject.dll
